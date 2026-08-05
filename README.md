@@ -51,4 +51,5 @@ The optimized portfolio outperformed the historical long-run risk-adjusted perfo
 ***Silvia Barnes Franco***
 
 *Physics Undergraduate, Programming with Mathematical Applications Project*
+
 *This project is available under the MIT License*
