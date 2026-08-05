@@ -3,7 +3,7 @@
 
 This project builds an optimal long-only portfolio using Modern Portfolio Theory.
 
-Features
+**Features**
 
 - Downloads S&P500 data automatically
 - Computes daily returns
