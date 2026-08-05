@@ -46,9 +46,9 @@ Performance:
 The optimized portfolio outperformed the historical long-run risk-adjusted performance of the S&P 500 in terms of expected Sharpe ratio, while remaining concentrated in a small number of Communication Services companies.
 
 
+**Author**
 
-
-***Silvia Barnes Franco***
+Silvia Barnes Franco
 
 *Physics Undergraduate, Programming with Mathematical Applications Project*
 
