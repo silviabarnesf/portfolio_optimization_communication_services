@@ -14,7 +14,7 @@ The optimization is performed using Sequential Least Squares Programming (SLSQP)
 
 **Features**
 
-- Downloads historical stock prices using **yfinance**
+- Downloads historical stock prices using yfinance
 - Automatically selects Communication Services companies from the S&P 500
 - Cleans and filters financial data
 - Estimates expected returns using analyst target prices
